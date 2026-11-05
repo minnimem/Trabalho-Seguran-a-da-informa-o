@@ -1,0 +1,15 @@
+# Artefatos compilados (Windows)
+*.exe
+
+# Artefatos compilados (Linux/macOS)
+*.out
+server
+client
+
+# Arquivos de IDE e sistema
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
